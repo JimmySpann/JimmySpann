@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenpioneer&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
-![Jason's github stats](https://github-readme-stats.vercel.app/api?username=greenpioneer&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmySpann&layout=compact)](https://github.com/JimmySpann/github-readme-stats)
+![Jason's github stats](https://github-readme-stats.vercel.app/api?username=JimmySpann&show_icons=true&theme=dark)
 <!--
 **JimmySpann/JimmySpann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
