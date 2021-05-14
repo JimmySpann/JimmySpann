@@ -4,7 +4,7 @@ Software engineer with a proven ability to effectively collaborate in teams of v
 
 👀 View my portfolio here: [Portfolio](https://www.jimmyleespann.com)
 
-📝 Check my resume out here: [Jimmy's Resume](https://drive.google.com/file/d/1s38JvZhjpApwZvy_lC2sRpZJB7tjWcSy/view?usp=sharing)
+📝 Check my resume out here: [Jimmy's Resume](https://docs.google.com/document/d/10VdHii9bCY7scKo27UrYvBr_r60NHqaRDoLyc5kG3SI/edit?usp=sharing)
 
 💬 Message me here: [Linkedin](https://www.linkedin.com/in/jimmy-spann/)
 
