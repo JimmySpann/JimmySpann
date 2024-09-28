@@ -10,9 +10,6 @@ Software engineer with a proven ability to effectively collaborate in teams of v
 
 📫 Reach me via email: [jimmyleespann@outlook.com](mailto:jimmyleespann@outlook.com)
 
-📲 Call Me here: (864) 219-2747
-
-
 ### Github Stats
 
 
